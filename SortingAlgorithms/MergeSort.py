@@ -41,3 +41,9 @@ print(array2)
 array3 = [12,5,8,1,5,9,6,98,5,4,3]
 MergeSort(array3)
 print(array3)
+array4 = [1]
+MergeSort(array4)
+print(array4)
+array5 = []
+MergeSort(array5)
+print(array5)
